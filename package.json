@@ -1,0 +1,30 @@
+{
+  "name": "viminput",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "An input component that allows for vim style editing.",
+  "homepage": "https://github.com/raguay/VimInput",
+  "bugs": {
+    "url": "https://github.com/raguay/VimInput/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raguay/VimInput.git"
+  },
+  "keywords": [
+    "svelte",
+    "component",
+    "input"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "svelte": "^5.19.6",
+    "vite": "^6.1.0"
+  }
+}
